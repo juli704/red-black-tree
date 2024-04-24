@@ -168,7 +168,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
     <ClCompile Include="test_red_black_node.cpp" />
     <ClCompile Include="test_red_black_tree.cpp" />
     <ClCompile Include="test_traversal.cpp" />
